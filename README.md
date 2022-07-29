@@ -1,5 +1,5 @@
 # Sprint
-[![Discord](https://img.shields.io/discord/986644057738592317)](https://discord.gg/B6s4MhYYqs)
+[![Discord](https://img.shields.io/discord/986644057738592317?style=plastic&logo=appveyor)](https://discord.gg/B6s4MhYYqs)
 
 Sprint is an interpreted, high-level, dynamically typed programming language. It offers a simplistic syntax and the blazing fast compilation speed of Dart at the same time. As it is only v1, there are only a handful amount of things you can do using Sprint but I genuinely wish to upgrade Sprint in each version and make Sprint a complete programming language!
 
