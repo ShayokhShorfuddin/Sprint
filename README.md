@@ -1,4 +1,3 @@
-![sprint logo](https://user-images.githubusercontent.com/56217851/181782127-aa03cd17-0a35-4133-bd52-91f9ee745bdc.png)
 
 # Sprint
 [![Discord](https://img.shields.io/discord/986644057738592317?logo=discord)](https://discord.gg/B6s4MhYYqs)
