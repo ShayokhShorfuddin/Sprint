@@ -79,7 +79,8 @@ print name
 This will cause an error. I hope to resolve this issue in future updates.
 
 
-## Exiting Execution
+## Exiting Execution![Screenshot 2022-07-30 163131](https://user-images.githubusercontent.com/56217851/181906429-09225a48-b6a8-4c4a-833b-2db4d44389f9.png)
+
 Use ```exit``` or ```Exit``` to terminate program execution.
 ```python
 name = "Peter"
