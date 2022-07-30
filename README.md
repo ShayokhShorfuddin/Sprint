@@ -27,7 +27,7 @@ print "Hello\nworld!"
 ```
 
 ## String Interpolation
-Use {} to insert data into strings.
+Use { } to insert data into strings.
 
 ```python
 target = "John Connor"
