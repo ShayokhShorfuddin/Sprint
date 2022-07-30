@@ -4,6 +4,12 @@
 
 Sprint is an interpreted, high-level, dynamically typed programming language. It offers a simplistic syntax and the blazing fast compilation speed of Dart at the same time. As it is only v1, there are only a handful amount of things you can do using Sprint but I genuinely wish to upgrade Sprint in each version and make Sprint a complete programming language!
 
+
+## Get Started
+To get started with Sprint, follow the steps below -
+1. Head to https://sprint-pi.vercel.app and download the latest Sprint release.
+2. 
+
 ## Syntax
 The syntax is quite simple. If you want to use ```;``` at the end of each line, that's absolutely fine! Sprint won't cause any issue if do or don't put ```;``` at the end of each line. Extra spaces at the start and the end of each line are trimmed and empty lines are simply ignored. You can use comments in your code by adding ```#``` or ```//``` at the start of a line. Now, let's talk about Exceptions in Sprint. Sprint tries to keep Expections as much clear as possible so that debugging can be easier. Also, I added a feature in the ```VariableNotFound``` error called "Variable Suggestor". Suppose you defined a variable ```weather = "Cloudy";``` and then you wanted to print it by writing ```print weathar;``` but Sprint will throw a ```VariableNotFound``` error. After throwing the error, Sprint will also say ```Did you mean weather?```
 
