@@ -26,6 +26,14 @@ print "Hello\nworld!"
 # world!
 ```
 
+## String Interpolation
+Use {} to insert data into strings.
+
+```python
+target = "John Connor"
+print "{target}, come with me if you want to live."
+```
+
 ## Define Variables
 ```python
 name = "Peter"
