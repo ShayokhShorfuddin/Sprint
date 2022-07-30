@@ -32,6 +32,8 @@ Use { } to insert data into strings.
 ```python
 target = "John Connor"
 print "{target}, come with me if you want to live."
+
+Output : "John Connor, come with me if you want to live."
 ```
 
 ## Define Variables
