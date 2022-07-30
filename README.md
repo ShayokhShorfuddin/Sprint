@@ -7,7 +7,7 @@ Sprint is an interpreted, high-level, dynamically typed programming language. It
 
 ## Get Started
 To get started with Sprint, follow the steps below -<br><br>1. Head to https://sprint-pi.vercel.app and download the latest Sprint release.<br><br>![Screenshot 2022-07-30 163131](https://user-images.githubusercontent.com/56217851/181906429-09225a48-b6a8-4c4a-833b-2db4d44389f9.png)<br><br>2. After downloading, copy the path to sprint.exe and add the path into yours environmental variables.<br><br>
-![Screenshot 2022-07-30 164151](https://user-images.githubusercontent.com/56217851/181906721-e46a3228-c5a4-4917-b733-31dc72b35c25.png)<br><br
+![Screenshot 2022-07-30 164151](https://user-images.githubusercontent.com/56217851/181906721-e46a3228-c5a4-4917-b733-31dc72b35c25.png)<br><br>3. Fire up your terminal and type "sprint". You should see an ascii resembling *SPRINT*
 
 ## Syntax
 The syntax is quite simple. If you want to use ```;``` at the end of each line, that's absolutely fine! Sprint won't cause any issue if do or don't put ```;``` at the end of each line. Extra spaces at the start and the end of each line are trimmed and empty lines are simply ignored. You can use comments in your code by adding ```#``` or ```//``` at the start of a line. Now, let's talk about Exceptions in Sprint. Sprint tries to keep Expections as much clear as possible so that debugging can be easier. Also, I added a feature in the ```VariableNotFound``` error called "Variable Suggestor". Suppose you defined a variable ```weather = "Cloudy";``` and then you wanted to print it by writing ```print weathar;``` but Sprint will throw a ```VariableNotFound``` error. After throwing the error, Sprint will also say ```Did you mean weather?```
