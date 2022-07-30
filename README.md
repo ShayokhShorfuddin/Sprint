@@ -101,6 +101,15 @@ name = "Peter"
 print name
 ```
 
+## Importing
+You can import variables from another files using the "import" and "from" keywords.<br>
+Suppose there are 2 files present in your current working directory. They are the following -<br> 
+```dart
+// This a also a comment
+name = "Peter"
+print name
+```
+
 ## Exiting Execution
 
 Use ```exit``` or ```Exit``` to terminate program execution.
