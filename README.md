@@ -80,6 +80,16 @@ print name
 ```
 This will cause an error. I hope to resolve this issue in future updates.
 
+# Multi-line Comments
+```python
+"""
+This is a comment
+This is also a comment
+Yet another annoying comment
+"""
+name = "Peter"
+print name
+```
 
 ## Exiting Execution
 
