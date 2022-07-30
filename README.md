@@ -6,8 +6,7 @@ Sprint is an interpreted, high-level, dynamically typed programming language. It
 
 
 ## Get Started
-To get started with Sprint, follow the steps below -
-Head to https://sprint-pi.vercel.app and download the latest Sprint release.
+To get started with Sprint, follow the steps below -<br>Head to https://sprint-pi.vercel.app and download the latest Sprint release.
 After downloading, copy the path to sprint.exe and add the path into yours environmental variables.
 
 ## Syntax
