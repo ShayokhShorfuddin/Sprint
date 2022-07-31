@@ -103,7 +103,7 @@ print name
 
 ## Importing
 You can import variables from another files using the ```import``` and ```from``` keywords.<br>
-Suppose there are 2 files (main.sp and info.sp) present in your current working directory.<br><br>```info.sp``` file contains 2 variables which are ```name``` and ```age```. You want to import these variables into ```main.sp```. Here is how you can do it -<br>Using ```import```
+Suppose there are 2 files (main.sp and info.sp) present in your current working directory.<br><br>```info.sp``` file contains 2 variables which are ```name``` and ```age```. You want to import these variables into ```main.sp```. Here is how you can do it -<br><br>Using ```import```
 
 ```python
 import info
