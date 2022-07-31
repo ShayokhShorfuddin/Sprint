@@ -1,4 +1,3 @@
-
 # Sprint
 [![Discord](https://img.shields.io/discord/986644057738592317?logo=discord)](https://discord.gg/B6s4MhYYqs)
 
@@ -105,6 +104,15 @@ print name
 You can import variables from another files using the ```import``` and ```from``` keywords.<br>
 Suppose there are 2 files (main.sp and info.sp) present in your current working directory.<br><br>```info.sp``` file contains 2 variables which are ```name``` and ```age```. You want to import these variables into ```main.sp```. Here is how you can do it -<br><br>Using ```import```
 
+```python
+import info 
+# This will import all the variables present in info.sp
+print "Hello {name}!\nYou are {age} years old."
+
+# Output : Hello Peter!
+# You are 17 years old.
+```
+Using ```from```
 ```python
 import info 
 # This will import all the variables present in info.sp
