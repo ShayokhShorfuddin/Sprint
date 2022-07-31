@@ -114,8 +114,8 @@ print "Hello {name}!\nYou are {age} years old."
 ```
 Using ```from```
 ```python
-import info 
-# This will import all the variables present in info.sp
+from info import name, age
+# This will import only the specified variables from info.sp
 print "Hello {name}!\nYou are {age} years old."
 
 # Output : Hello Peter!
