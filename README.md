@@ -25,6 +25,12 @@ print "Hello\nworld!"
 # world!
 ```
 
+Tab charecter ```\t``` is now supported.
+```python
+print "Hello\tworld!"
+# Output: Hello    world!
+```
+
 ## String Interpolation
 Use { } to insert data into strings.
 
