@@ -4,8 +4,9 @@
 Sprint is an interpreted, high-level, dynamically typed programming language. It offers a simplistic syntax and the blazing fast compilation speed of Dart at the same time. As it is only v1, there are only a handful amount of things you can do using Sprint but I genuinely wish to upgrade Sprint in each version and make Sprint a complete programming language!
 
 
-## Get Started
-To get started with Sprint, follow the steps below -<br><br>1. Head to https://sprint-olive.vercel.app and download the latest Sprint release.<br><br>![Screenshot 2022-07-30 163131](https://user-images.githubusercontent.com/56217851/181906429-09225a48-b6a8-4c4a-833b-2db4d44389f9.png)<br><br>2. After downloading, copy the path to sprint.exe and add the path into your environmental variables.<br><br>
+## Get Started!
+
+To get started with Sprint, follow the steps below -<br><br>1. Head to https://sprint-olive.vercel.app and download the latest Sprint release.<br><br>![download](https://user-images.githubusercontent.com/56217851/194690309-f900ba30-773a-482b-8b3d-a97df7dc18c4.png)<br><br>2. After downloading, copy the path to sprint.exe and add the path into your environmental variables.<br><br>
 ![Screenshot 2022-07-30 164151](https://user-images.githubusercontent.com/56217851/181906721-e46a3228-c5a4-4917-b733-31dc72b35c25.png)<br><br>3. Fire up your terminal and type "sprint". You should see an ascii resembling *SPRINT*<br><br>![Screenshot 2022-07-30 165321](https://user-images.githubusercontent.com/56217851/181907732-682a73d8-871c-4a4f-9536-2606cc165710.png)<br>
 
 ## Syntax
