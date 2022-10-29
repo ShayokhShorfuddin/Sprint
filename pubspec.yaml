@@ -1,0 +1,15 @@
+name: sprint
+version: 1.2.0
+
+dependencies: {
+  chalkdart: ^2.0.8, 
+  function_tree: ^0.8.13, 
+  string_similarity: ^2.0.0
+}
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
