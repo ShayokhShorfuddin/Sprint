@@ -7,7 +7,7 @@ Sprint is an interpreted, high-level, dynamically typed programming language. It
 ## Get Started!
 
 To get started with Sprint, follow the steps below -<br><br>1. Head to https://sprint-olive.vercel.app and download the latest Sprint release.<br><br>![download](https://user-images.githubusercontent.com/56217851/194690309-f900ba30-773a-482b-8b3d-a97df7dc18c4.png)<br><br>2. After downloading, copy the path to sprint.exe and add the path into your environmental variables. In my case, sprint.exe is located in my Downloads folders.<br><br>
-![Screenshot 2022-07-30 164151](https://user-images.githubusercontent.com/56217851/181906721-e46a3228-c5a4-4917-b733-31dc72b35c25.png)<br><br>3. Fire up your terminal and type "sprint". You should see an ascii resembling *SPRINT*<br><br>![terminal](https://user-images.githubusercontent.com/56217851/194690606-d4832885-c2f3-4bc8-9e4d-c10a9bf467ce.png)<br>
+![Screenshot 2022-07-30 164151](https://user-images.githubusercontent.com/56217851/181906721-e46a3228-c5a4-4917-b733-31dc72b35c25.png)<br><br>3. Fire up your terminal and type "sprint version". You will get the version of Sprint.<br><br>![terminal](https://user-images.githubusercontent.com/56217851/198837608-a1efca14-c8eb-428a-9b9a-364206593ea5.png)<br>
 
 ## Syntax
 
