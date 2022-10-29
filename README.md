@@ -129,6 +129,22 @@ print "Hello {name}!\nYou are {age} years old."
 # You are 17 years old.
 ```
 
+## Loop
+At this moment, only "for loop" has been implemented but I wish to bring "while loop" as soon as I can.
+```python
+for i in "Hello!":
+    print i
+end
+
+# Output :
+# H
+# e
+# l
+# l
+# o
+# !
+```
+
 ## Exiting Execution
 
 Use ```exit``` or ```Exit``` to terminate program execution.
